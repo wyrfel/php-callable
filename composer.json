@@ -12,5 +12,10 @@
             "email": "a.wyrwa@gmx.de"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Wyrfel\\PhpCallback\\": ["src/"]
+        }
+    },
     "require": {}
 }

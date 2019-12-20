@@ -1,3 +1,10 @@
+[![Build Status](https://travis-ci.org/wyrfel/php-callback.svg?branch=master)](https://travis-ci.org/wyrfel/php-callback)
+[![Maintainability](https://api.codeclimate.com/v1/badges/54e9839e6a3efff7cc07/maintainability)](https://codeclimate.com/github/wyrfel/php-callback/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/54e9839e6a3efff7cc07/test_coverage)](https://codeclimate.com/github/wyrfel/php-callback/test_coverage)
+[![Latest Stable Version](https://poser.pugx.org/wyrfel/php-callback/version?format=flat)](https://packagist.org/packages/wyrfel/php-callback)
+[![Total Downloads](https://poser.pugx.org/wyrfel/php-callback/downloads?format=flat)](https://packagist.org/packages/wyrfel/php-callback)
+[![License](https://poser.pugx.org/wyrfel/php-callback/license?format=flat)](https://packagist.org/packages/wyrfel/php-callback)
+
 # php-callback
 
 This is a simple callable helper that allows better control over the call
